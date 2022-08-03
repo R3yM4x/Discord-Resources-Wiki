@@ -1,42 +1,42 @@
 ---
-title: Moderation
+title: Moderación
 sidebar_position: 6
-description: Moderation resources
+description: Recursos de moderación
 ---
 
-# Moderation
+# Moderación
 
-## **Modcast Podcast** (recently affiliated)
+## **Modcast Podcast** (Afiliado recientemente)
 
-> **Description:** A podcast by moderators for moderators.   <br/>
-**Link:** [Modcast Podcast](https://modcast.network/)   <br/>
-**Credit:** [ModPod team](https://modcast.network/meet-the-team/)
+> **Description:** Un podcast de moderadores para moderadores.   <br/>
+**Enlace:** [Modcast Podcast](https://modcast.network/)   <br/>
+**Créditos :** [Equipo de ModPod](https://modcast.network/meet-the-team/)
 
-## **Discord Moderator Academy**
+## **Acamdemia de moderación de Discord**
 
-> **Description:** Discord’s official resources for moderators, written by moderators.   <br/>
-**Link:** [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-**Credit:** Multiple Authors (Discord Moderator Ecosystem)
+> **Descripción:** Recursos oficiales de Discord para moderadores, escritos por moderadores.   <br/>
+**Enlace:** [Acamdemia de moderación de Discord](https://dis.gd/moderation)   <br/>
+**Créditos:** Múltiples autores (Ecosistema de moderadores de Discord)
 
-## **Discord Moderator Ecosystem**
+## **Ecosistema de moderadores de Discord**
 
-> **Description:** Official ecosystem for moderators to discuss moderation.   <br/>
-**Link:** [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+> **Descripción:** Ecosistema oficial para que los moderadores discutan sobre la moderación.   <br/>
+**Enlace:** [Ecosistema de moderadores de Discord](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-## **Naviking’s Moderation Templates & Tools Documentation**
+## **Plantillas y herramientas de moderación de Naviking**
 
-> **Description:** A drive file full of moderation resources.   <br/>
-**Link:** [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-**Credit:** @200987752794292224
+> **Descricpión:** Un archivo de Drive lleno de recursos de moderación.   <br/>
+**Enlace:** [Plantillas y herramientas de moderación de Naviking](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+**Créditos:** @200987752794292224
 
-## **Moderation Guidelines**
+## **Directrices de moderación**
 
-> **Description:** A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
-**Link:** [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-**Credit:** @366652352125599744
+> **Descripción:** Una plantilla para ayudar al nuevo personal a incorporarse y comprender las prácticas de moderación del servidor.   <br/>
+**Enlace:** [Directrices de moderación](https://staff-guidelines.super.site/)   <br/>
+**Créditos:** @366652352125599744
 
-## **A Guide To Civil Conversation**
+## **Una guía para la conversación civilizada**
 
-> **Description:** Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
-**Link:** [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-**Credit:** @102102717165506560
+> **Descripción:** Conjunto de normativas de la comunidad extenso, pero pulido, destinado a disminuir el trabajo de los moderadores.   <br/>
+**Enlace:** [Una guía para la conversación civilizada](https://conversation.guide/)   <br/>
+**Créditos:** @102102717165506560
