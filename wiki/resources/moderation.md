@@ -23,10 +23,10 @@ description: Recursos de moderación
 > **Descripción:** Ecosistema oficial para que los moderadores discutan sobre la moderación.   <br/>
 **Enlace:** [Ecosistema de moderadores de Discord](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-## **Plantillas y herramientas de moderación de Naviking**
+## **Plantillas y herramientas de moderación de NaviKing**
 
 > **Descricpión:** Un archivo de Drive lleno de recursos de moderación.   <br/>
-**Enlace:** [Plantillas y herramientas de moderación de Naviking](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+**Enlace:** [Plantillas y herramientas de moderación de NaviKing](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
 **Créditos:** @200987752794292224
 
 ## **Directrices de moderación**
