@@ -10,7 +10,7 @@ description: Recursos de moderación
 
 > **Descripción:** Un podcast de moderadores para moderadores.   <br/>
 **Enlace:** [Modcast Podcast](https://modcast.network/)   <br/>
-**Créditos :** [Equipo de ModPod](https://modcast.network/meet-the-team/)
+**Créditos:** [Equipo de ModPod](https://modcast.network/meet-the-team/)
 
 ## **Academia de moderación de Discord**
 
