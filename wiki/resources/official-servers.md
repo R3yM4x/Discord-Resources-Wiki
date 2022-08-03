@@ -1,42 +1,42 @@
 ---
-title: Official Discord Servers
+title: Servidores oficiales de Discord
 sidebar_position: 2
-description: Official servers owned by discord.
+description: Servidores oficiales administrados por Discord.
 ---
 
-# Official Servers
+# Servidores oficiales
 
 ## **Discord Testers**
 
-> **Description:** The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
-**Link:** [Discord Testers](https://discord.gg/discord-testers)
+> **Descripción:** ¡El lugar oficial para reportar errores de Discord! ¡Ayuda a encontrar errores, habla con otros y sé parte de la comunidad de cazadores de bugs!   <br/>
+**Enlace:** [Discord Testers](https://discord.gg/discord-testers)
 
 @gg/discord-testers
 
 ## **Discord Developers**
 
-> **Description:** The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
-**Link:** [Discord Developers](https://discord.gg/discord-developers)
+> **Descripción:** ¡El lugar oficial para discutir la API y los SDK de Discord con los desarrolladores de la comunidad y el persoanl de Discord por igual!   <br/>
+**Enlace:** [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
 ## **Discord Town Hall**
 
-> **Description:** An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-**Link:** [Discord Town Hall](https://discord.gg/discord-townhall)
+> **Descripción:** Un servidor de charla general oficial para las personas que aman Discord. ¡Encuentra las últimas noticias, eventos y una comunidad que te encantara!   <br/>
+**Enlace:** [Discord Town Hall](https://discord.gg/discord-townhall)
 
 @gg/discord-townhall
 
 ## **Discord Games Lab**
 
-> **Description:** The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
-**Link:** [Discord Games Lab](https://discord.gg/discordgameslab)
+> **Descripción:** El servidor oficial del laboratorio de juegos de Discord. ¡Ven a jugar Poker Night, Chess o Watch Together con tus amigos!   <br/>
+**Enlace:** [Discord Games Lab](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
 
 ## **Discord Safety**
 
-> **Description:** Currently under construction.  <br/>
-**Link:** [Discord Safety](https://discord.gg/safety)
+> **Descripción:** Actualmente en construcción.  <br/>
+**Enlace:** [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
