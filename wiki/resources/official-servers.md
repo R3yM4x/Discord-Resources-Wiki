@@ -15,7 +15,7 @@ description: Servidores oficiales administrados por Discord.
 
 ## **Discord Developers**
 
-> **Descripción:** ¡El lugar oficial para discutir la API y los SDK de Discord con los desarrolladores de la comunidad y el persoanl de Discord por igual!   <br/>
+> **Descripción:** ¡El lugar oficial para discutir la API y los SDK de Discord con los desarrolladores de la comunidad y el personal de Discord por igual!   <br/>
 **Enlace:** [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
