@@ -57,7 +57,7 @@ description: Enlaces divertidos
 <https://downloadmoreram.com/> | Descarga mas RAM  <br/>
 <https://benisland.neocities.org/petpet/> | Mascota, Mascota  <br/>
 <https://thispagewillneverload.com> | Está pagina nunca cargara  <br/>
-<https://inspirobot.me/> | Ctas de inspiración <br/>
+<https://inspirobot.me/> | Citas de inspiración <br/>
 <https://shitcord.com/> | Shitcord <br/>
 <https://ban-cs.xyz/> | Deja de hacer informática  <br/>
 <https://xkcd.com/> | un comic online de romance, sarcasmo, matematicas, y lenguage.  <br/>
