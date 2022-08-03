@@ -17,7 +17,7 @@ description: Archivos oficiales de Discord.
 
 ### **Accesibilidad de todas las cosas**
 > **Descripción:** Una entrevista de Discord (audio y subtitulado) sobre accesibilidad con un empleado de Discord del equipo de accesibilidad.  <br/>
-**Enlaces(s):** <br/>
+**Enlaces:** <br/>
 [Audio](https://dis.gd/RadioDiscord_Accessibility )  <br/>
 [Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)
 
