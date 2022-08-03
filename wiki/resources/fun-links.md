@@ -60,7 +60,7 @@ description: Enlaces divertidos
 <https://inspirobot.me/> | Citas de inspiración <br/>
 <https://shitcord.com/> | Shitcord <br/>
 <https://ban-cs.xyz/> | Deja de hacer informática  <br/>
-<https://xkcd.com/> | un comic online de romance, sarcasmo, matematicas, y lenguage.  <br/>
+<https://xkcd.com/> | Un comic online de romance, sarcasmo, matematicas, y lenguage.  <br/>
 <https://mcbroken.com/> | ¿Está rota la máquina de helados?  <br/>
 <https://ian-deploy.xyz/> | Ian despliegue   <br/>
 <https://ian1-deploy.xyz/> | Ian despliegue # 2  <br/>
